@@ -4,6 +4,14 @@
 
 ## Usage
 
+```js
+const {debounce} = require('yma-debounce-throttle');
+
+const fn = debounce(function () {}, 1000);
+```
+
+## Arguments List
+
 ### Debounce
 
 -   n 秒后在执行该事件，若在 n 秒内被重复触发，则重新计时
