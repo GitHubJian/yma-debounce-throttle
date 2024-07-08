@@ -1,0 +1,9 @@
+{
+    "name": "yma-debounce-throttle",
+    "version": "1.0.0",
+    "description": "防抖（debounce）和节流（throttle）",
+    "main": "./src/index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
